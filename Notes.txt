@@ -1,0 +1,50 @@
+# About this document:
+
+> :warning: **Warning:** Attention! Danger Zone! Action or input that may cause breaking change to your app.
+
+> :memo: **Note:** Note(s) help you to navigate this repo template.
+
+> :bulb: **Tip:** Something you should know that will help you to be a better reactjs front end developer
+
+## Prequisites:
+
+- VSCode
+- Create a project directory
+- Open command line terminal
+- cd to our main project directory //this is where you install any packages for any apps inside that folder
+- npm: //you can skip this step if you already have installed it
+    - npm i install //allows you to use npm commands
+    - npm -v //to check version, you should have 20x or higher
+
+## Getting Started:
+
+- npm create vite@latest reactjstodolist //replace reactjstodlist with whatever your AppName
+    - choose React and Javascript from the install prompt
+- cd reactjstodolist //replace reactjstodolist with your AppName
+- cd reactjstodolist //replace reactjstodolist with your AppName
+- Notes about the App folder structure:
+
+    - Automatically generated files that you don't usually update:
+        - eslint.config.js
+        - vite.config.js
+    - Automatically generated files that you can customize a bit:
+        - package.json <! ---automatically created and contains all your dependencies, this will get updated as you install new packages
+        - .gitignore <! ---ontains all the files that will be exclude from build, things like node_modules, local vars, automatic updated files
+    - Automatically generated folders and files where you will do the most change:
+        - index.html <! ---this is the homepage
+        - README.md <! ---you can update this to tell others about your repo and how to contribute or use
+        - public <! ---all your publicly shared files like images and fonts
+        - src <! ---all your source code
+
+Delete the following:
+    - App.css
+- Create the following folders:
+    - public/fonts //pulic are things shared like images and fonts
+    - public/images
+
+- Create the following files:
+
+
+
+
+
