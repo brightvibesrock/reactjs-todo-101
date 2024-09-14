@@ -271,14 +271,9 @@ Grab the local host path
 
 <img src="./public/images/InitialDeployofToDoList.png" width="300" height="150"> 
 
-
-
-
 ## Acknowledgements
 * James Jamezca: GitHub Repo: https://github.com/jamezmca
-* https://www.hyr.sh/
-* https://www.markdownguide.org/cheat-sheet/
-
+* https://www.markdownguide.org/cheat-she
 
 ## Resources
 
