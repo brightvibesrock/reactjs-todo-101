@@ -23,6 +23,7 @@ Currently, there are 2 official plugins are available:
 - [Let's Get Coding](#lets-get-coding)
 - [Get style](#get-your-style)
 - [Run Deploy your app](#deploy-your-app)
+- [Part 2, complete App Code & deploy to Netlify](#go-to-part-2)
 - [Acknowledgements] (#acknowledgements)
 - [Resources](#resources)
 
@@ -53,7 +54,7 @@ Currently, there are 2 official plugins are available:
 * from terminal, cd to your reactjstodolist folder.
   
 ## Advanced Developers
-Note that this is Part 1 of this app, the Part 2 is here: ["Advanced Developer"](https://github.com/brightvibesrock/reactjs-todo-example/) section that is in the Readme for that repo.
+Note that this is Part 1 of this app. Part 1 explains in more detail how things are organized and foundational reactjs concepts. Part 2, walks through `git clone`, `npm install`, `npm run dev` and `deploy to netifly`. Part 2, Readme is here: ["Advanced Developer"](https://github.com/brightvibesrock/reactjs-todo-example/). 
 
 ## Getting Started 101:
 ####  Time: 5 - 15 Minutes
@@ -287,7 +288,9 @@ Grab the local host path
 
 <img src="./public/images/InitialDeployofToDoList.png" width="300" height="150"> 
 
-From this point forward, go to Advance Devs section to clone this repo and deploy to netlify! https://github.com/jamezmca/reactjs-todolist/. Enjoy!
+## Go to Part 2
+
+From this point forward, you need to do the Advance Developer section and click on the Link to do Part 2. Part 2, walks through `git clone`, `npm install`, `npm run dev` and `deploy to netifly`. Part 2, Readme is here: ["Advanced Developer"](https://github.com/brightvibesrock/reactjs-todo-example/). 
 
 ## Acknowledgements
 * James Jamezca: GitHub Repo: https://github.com/jamezmca. He is a total front-end boss! If you are beginner or just need to solidify on some foundations... check out the resources below.
