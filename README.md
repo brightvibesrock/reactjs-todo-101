@@ -290,7 +290,7 @@ Grab the local host path
 
 ## Go to Part 2
 
-From this point forward, you need to do the Advance Developer section and click on the Link to do Part 2. Part 2, walks through `git clone`, `npm install`, `npm run dev` and `deploy to netifly`. Part 2, Readme is here: ["Advanced Developer"](https://github.com/brightvibesrock/reactjs-todo-example/). 
+From this point forward, you need to do the Advanced Developer section - Part 2. Part 2, walks through `git clone`, `npm install`, `npm run dev` and `deploy to netifly`. Part 2, Readme is here: ["Advanced Developer"](https://github.com/brightvibesrock/reactjs-todo-example/). 
 
 ## Acknowledgements
 * James Jamezca: GitHub Repo: https://github.com/jamezmca. He is a total front-end boss! If you are beginner or just need to solidify on some foundations... check out the resources below.
