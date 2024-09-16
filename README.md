@@ -24,7 +24,7 @@ I created a Part 1 and Part 2 of this app, to help reactjs newbies get some basi
 - [Get style](#get-your-style)
 - [Run Deploy your app](#deploy-your-app)
 - [Part 2, complete App Code & deploy to Netlify](#go-to-part-2)
-- [Acknowledgements] (#acknowledgements)
+- [Acknowledgements](#acknowledgements)
 - [Resources](#resources)
 
 
