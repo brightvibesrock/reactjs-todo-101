@@ -1,6 +1,10 @@
 # About React + Vite App Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules and its deployed onto:
+
+* [@netlify](https://brightvibesrock-todolist.netlify.app/)
+
+I created this template because it super easy to just clone a repo and then make your custom updates, but this project has great foundation to understand reactjs folder structure, components and  how things are linked together, Also, the template has the basic code for developing reactjs cards that can easily be ported to your other apps!
 
 Currently, there are 2 official plugins are available:
 
@@ -14,7 +18,8 @@ Currently, there are 2 official plugins are available:
 
 - [How to read this document](#how-to-read-this-document)
 - [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
+- [Advanced Devs](#advanced-devs)
+- [Getting Started 101](#getting-started-101)
 - [Let's Get Coding](#lets-get-coding)
 - [Acknowledgements](#acknowledgements)
 - [Deploy your app](#deploy-your-app)
@@ -31,15 +36,54 @@ Currently, there are 2 official plugins are available:
 
 ## Prerequisites:
 
+* github Desktop & github.com Account
+  
 * VSCode 
   * VSCode Extension: ES7 React/Redux/GraphQL/React-Native snippets
-* Create a project directory
+    
 * Open command line terminal and cd your project directory. This is where you will install any packages for the collection of apps you will create over time. En`ter the following to install npm, you can skip this step if you already have it. You should have version 20.x or higher.
 
-`npm i install`
-`npm -v`
+* Create a project directory call reactjstodolist.
+  
+* [@netifly account.](https://app.netlify.com)
 
-## Getting Started:
+* from terminal, cd to your reactjstodolist folder.
+  
+## Advanced Devs
+If you are already familiar with reactjs, folder structures and props, below are quick steps to  deploy it to netlify. If you are new to reactjs or you just want to refresh on core concepts go t [Getting Started 101](#getting-started-101).
+
+### Get site running on local and deploy to netlify
+All the code for the 101 is here https://github.com/brightvibesrock/reactjs-todo-101 for your reference.
+
+* `remove package-lock.json`
+
+* `npm i install`
+
+* `npm -v`
+
+* `npm run dev`
+
+* stop site from running `ctrl-c`
+
+In Github Desktop:
+
+* Connect your github Cloud Account to Github Desktop.
+
+* Choose `add existing repo", select app repo folder, select  create a repository, enter any description, elect to make repo  public if desired, publish repository!`
+
+* Go to your github Account/Repositories, you should see your newly published repo!
+
+* Go to your Netlify Account and login with your github Account..
+
+* Choose `add new site: import an existing project: deploy with github and authenticate your project.`
+
+* Accept all defaults and deploy, if you are currently checked out on a branch vs main you will see that branch. 
+
+* Customize your `custom domain` from domain management, consider naming your github :account name-reacttodlist". If you do not set this, link will be a randomized alpha numeric name.
+  
+* Netlify site is created, `go to the link` Add this live link to you repo!
+
+## Getting Started 101:
 ####  Time: 5 - 15 Minutes
 
 * From the VSCode Terminal, create your app by entering:
@@ -48,7 +92,7 @@ Currently, there are 2 official plugins are available:
 
 <img src="./public/images/favpng_memo.png" width="25" height="25"> **Note:** Choose react and javascript from the install prompt. Replace reactjstodlist with whatever your AppName.
 
-Change to the app directory that you just generated:
+Change to the app dirkectory that you just generated:
 
 `cd reactjstodolist`
 
@@ -147,7 +191,7 @@ export default App
 ```
 
 ### Your code challenge!
-<img src="./public/images/favpng_warning.png" width="25" height="25"> **Attention:** Updatee ToDoList and ToDoCard sub-components. Hint: Its basically identical to ToDoInput.jsx, but the sub-component name between the `<div></div>` tags will match the component name of the file! As a challenge see if you can update ToDoList so it renders the ToDoCard sub-component.
+<img src="./public/images/favpng_warning.png" width="25" height="25"> **Attention:** Updatee ToDoList and ToDoCard sub-components. Hint: Its basically identical to ToDoInput.jsx, but the sub-component name between the `<div></div>` tags will match the component name of the file! 
 
 <details>
 
@@ -166,7 +210,7 @@ export default function ToDoList() {
 
 ```
 
-`reactjstodolist/TodoCard``
+`reactjstodolist/TodoCard`
 
 ```
 import React from 'react'
@@ -271,13 +315,16 @@ Grab the local host path
 
 <img src="./public/images/InitialDeployofToDoList.png" width="300" height="150"> 
 
+From this point forward, go to Advance Devs section to clone this repo and deploy to netlify! https://github.com/jamezmca/reactjs-todolist/. Enjoy!
+
 ## Acknowledgements
-* James Jamezca: GitHub Repo: https://github.com/jamezmca
-* https://www.markdownguide.org/cheat-she
+* James Jamezca: GitHub Repo: https://github.com/jamezmca. He is a total front-end boss! If you are beginner or just need to solidify on some foundations... check out the resources below.
 
 ## Resources
 
 * VSCode - https://code.visualstudio.com/
+* James Jamezca - his original code: https://github.com/jamezmca/reactjs-todolist
+* James Jamezcal awesome reactjs tutorials! https://www.youtube.com/watch?v=82PXenL4MGg
 * NodeJS - https://nodejs.org/en/download
 * Vite - https://vitejs.dev/guide/
 * https://fonts.google.com/
