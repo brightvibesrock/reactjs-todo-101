@@ -53,7 +53,7 @@ Currently, there are 2 official plugins are available:
 * from terminal, cd to your reactjstodolist folder.
   
 ## Advanced Developers
-If you are already familiar with reactjs, folder structures and props, below are quick steps to  deploy it to netlify. If you are new to reactjs or you just want to refresh on core concepts go t [Getting Started 101](#getting-started-101).
+If you are already familiar with reactjs, folder structures and props, below are quick steps to  deploy it to netlify. If you are new to reactjs or you just want to refresh on core concepts go to the section -> [Getting Started 101](#getting-started-101).
 
 ### Get site running on local and deploy to netlify
 All the code for the 101 is here https://github.com/brightvibesrock/reactjs-todo-101 for your reference.
