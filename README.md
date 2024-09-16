@@ -53,38 +53,7 @@ Currently, there are 2 official plugins are available:
 * from terminal, cd to your reactjstodolist folder.
   
 ## Advanced Developers
-If you are already familiar with reactjs, folder structures and props, below are quick steps to  deploy it to netlify. If you are new to reactjs or you just want to refresh on core concepts go to the section -> [Getting Started 101](#getting-started-101).
-
-### Get site running on local and deploy to netlify
-All the code for the 101 is here https://github.com/brightvibesrock/reactjs-todo-101 for your reference.
-
-* `remove package-lock.json`
-
-* `npm i install`
-
-* `npm -v`
-
-* `npm run dev`
-
-* stop site from running `ctrl-c`
-
-In Github Desktop:
-
-* Connect your github Cloud Account to Github Desktop.
-
-* Choose `add existing repo", select app repo folder, select  create a repository, enter any description, elect to make repo  public if desired, publish repository!`
-
-* Go to your github Account/Repositories, you should see your newly published repo!
-
-* Go to your Netlify Account and login with your github Account..
-
-* Choose `add new site: import an existing project: deploy with github and authenticate your project.`
-
-* Accept all defaults and deploy, if you are currently checked out on a branch vs main you will see that branch. 
-
-* Customize your `custom domain` from domain management, consider naming your github :account name-reacttodlist". If you do not set this, link will be a randomized alpha numeric name.
-  
-* Netlify site is created, `go to the link` Add this live link to you repo!
+Note that this is Part 1 of this app, the Part 2 is here: ["Advanced Developer"](https://github.com/brightvibesrock/reactjs-todo-example/) section that is in the Readme for that repo.
 
 ## Getting Started 101:
 ####  Time: 5 - 15 Minutes
