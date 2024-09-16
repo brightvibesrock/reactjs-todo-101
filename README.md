@@ -2,14 +2,14 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules and its deployed onto:
 
-* [@netlify](https://brightvibesrock-todolist.netlify.app/)
-
-I created this template because it super easy to just clone a repo and then make your custom updates, but this project has great foundation to understand reactjs folder structure, components and  how things are linked together, Also, the template has the basic code for developing reactjs cards that can easily be ported to your other apps!
+* demo of the live app is here: [@netlify](https://brightvibesrock-todolist.netlify.app/)
 
 Currently, there are 2 official plugins are available:
 
 * [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 * [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+I created a Part 1 and Part 2 of this app, to help reactjs newbies get some basics down to understand reactjs folder structure, components and  how things are linked together. To keep the code clean, the init code for the app is in this repo. Part 2 has the complete code.
 
 ## Table of Contents
 <details>
