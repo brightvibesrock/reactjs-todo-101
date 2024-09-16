@@ -18,11 +18,14 @@ Currently, there are 2 official plugins are available:
 
 - [How to read this document](#how-to-read-this-document)
 - [Prerequisites](#prerequisites)
-- [Advanced Devs](#advanced-devs)
+- [Advanced Developers](#advanced-developers)
 - [Getting Started 101](#getting-started-101)
 - [Let's Get Coding](#lets-get-coding)
-- [Acknowledgements](#acknowledgements)
-- [Deploy your app](#deploy-your-app)
+- [Get style](#get-your-style)
+- [Run Deploy your app](#deploy-your-app)
+- [Acknowledgements] (#acknowledgements)
+- [Resources](#resources)
+
 
 </details>
 
@@ -49,7 +52,7 @@ Currently, there are 2 official plugins are available:
 
 * from terminal, cd to your reactjstodolist folder.
   
-## Advanced Devs
+## Advanced Developers
 If you are already familiar with reactjs, folder structures and props, below are quick steps to  deploy it to netlify. If you are new to reactjs or you just want to refresh on core concepts go t [Getting Started 101](#getting-started-101).
 
 ### Get site running on local and deploy to netlify
