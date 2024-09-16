@@ -54,7 +54,7 @@ I created a Part 1 and Part 2 of this app, to help reactjs newbies get some basi
 * from terminal, cd to your reactjstodolist folder.
   
 ## Advanced Developers
-Note that this is Part 1 of this app. Part 1 explains in more detail how things are organized and foundational reactjs concepts. Part 2, walks through `git clone`, `npm install`, `npm run dev` and `deploy to netifly`. Part 2, Readme is here: ["Advanced Developer"](https://github.com/brightvibesrock/reactjs-todo-example/). 
+Note that this is Part 1 - 101 of this app. Part 1 explains in more detail how things are organized and foundational reactjs concepts. Part 2 has the complete code and steps to `git clone`, `npm install`, `npm run dev` and `deploy to netifly`. Part 2, Readme is here: ["Advanced Developer"](https://github.com/brightvibesrock/reactjs-todo-example/). 
 
 ## Getting Started 101:
 ####  Time: 5 - 15 Minutes
